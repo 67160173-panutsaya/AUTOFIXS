@@ -39,8 +39,7 @@ export default function Navbar({ searchQuery, onSearchChange }: NavbarProps) {
               <Wrench className="w-5 h-5 text-white" />
             </div>
             <div className="leading-tight hidden sm:block">
-              <span className="text-white font-bold text-lg tracking-tight">PartsHub</span>
-              <span className="text-blue-400 font-bold text-lg tracking-tight">.th</span>
+              <span className="text-white font-bold text-lg tracking-tight">Autofix</span>
             </div>
           </a>
 

@@ -40,7 +40,7 @@ export default function Footer() {
                 <Wrench className="w-5 h-5 text-white" />
               </div>
               <span className="text-white font-bold text-xl tracking-tight">
-                PartsHub<span className="text-blue-400">.th</span>
+                Autofix
               </span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed mb-6 max-w-xs">
@@ -51,7 +51,7 @@ export default function Footer() {
             <div className="space-y-2 mb-6">
               <div className="flex items-center gap-2 text-slate-400 text-sm">
                 <Mail className="w-4 h-4 text-blue-400 flex-shrink-0" />
-                <span>support@partshub.th</span>
+                <span>support@autofix.th</span>
               </div>
               <div className="flex items-center gap-2 text-slate-400 text-sm">
                 <Phone className="w-4 h-4 text-blue-400 flex-shrink-0" />
@@ -104,7 +104,7 @@ export default function Footer() {
       <div className="border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-slate-500 text-xs">
-            © 2026 PartsHub.th สงวนลิขสิทธิ์ทุกประการ
+            © 2026 Autofix สงวนลิขสิทธิ์ทุกประการ
           </p>
           <div className="flex gap-5">
             {['นโยบายความเป็นส่วนตัว', 'ข้อกำหนดการใช้งาน', 'นโยบาม Cookie'].map((l) => (
